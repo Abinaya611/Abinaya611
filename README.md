@@ -17,6 +17,35 @@
 
 </div>
 
+---
+
+### 💻 About Me
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Abinaya K"
+        self.location = "Madurai, India"
+        self.degree = "B.E. Computer Science & Engineering (CGPA: 9.15)"
+        self.role = "Aspiring Full Stack Developer"
+
+        self.stack = {
+            "languages": ["Python", "JavaScript", "SQL", "HTML", "CSS"],
+            "frameworks": ["Django", "Django REST Framework", "Flask", "React"],
+            "databases": ["MySQL"],
+            "tools": ["Git", "GitHub", "VS Code", "MySQL Workbench"]
+        }
+
+        self.currently_learning = ["Cloud Fundamentals", "Advanced DSA", "Docker"]
+        self.fun_fact = "I once built an app that literally keeps drivers awake 🚗💤"
+
+    def motto(self):
+        return "Debug with patience, build with purpose."
+
+
+me = Developer()
+print(me.motto())
+```
 
 ---
 
