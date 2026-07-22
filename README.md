@@ -18,14 +18,16 @@
 </div>
 
 ---
-💻 About Me
-🎓 Final-year B.E. Computer Science & Engineering student at K.L.N. College of Engineering (CGPA: 9.15)
-🚀 Aspiring Full Stack Developer with a strong foundation in Python and web application development
-🛠️ Experienced in building web apps with Django, REST APIs with DRF, and databases with MySQL
-🌱 Currently exploring Cloud Fundamentals, Advanced DSA, and Docker
-💡 Enjoy solving real-world problems through hands-on projects — from e-commerce platforms to driver-safety systems
-📍 Based in Madurai, India
-💬 "Debug with patience, build with purpose."
+
+### 💻 About Me
+
+- 🎓 Final-year **B.E. Computer Science & Engineering** student at K.L.N. College of Engineering (CGPA: **9.15**)
+- 🚀 Aspiring **Full Stack Developer** with a strong foundation in Python and web application development
+- 🛠️ Experienced in building web apps with **Django**, REST APIs with **DRF**, and databases with **MySQL**
+- 🌱 Currently exploring **Cloud Fundamentals**, **Advanced DSA**, and **Docker**
+- 💡 Enjoy solving real-world problems through hands-on projects — from e-commerce platforms to driver-safety systems
+- 📍 Based in Madurai, India
+- 💬 *"Debug with patience, build with purpose."*
 
 ---
 
